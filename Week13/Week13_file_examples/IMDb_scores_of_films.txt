@@ -1,0 +1,26 @@
+IMDb: 6.9
+IMDb: 7.9
+IMDb: 7.0
+IMDb: 6.8
+IMDb: 7.0
+IMDb: 8.1
+IMDb: 7.2
+IMDb: 7.0
+IMDb: 7.8
+IMDb: 8.1
+IMDb: 7.7
+IMDb: 7.4
+IMDb: 6.3
+IMDb: 7.8
+IMDb: 7.4
+IMDb: 7.5
+IMDb: 7.5
+IMDb: 7.9
+IMDb: 8.5
+IMDb: 7.1
+IMDb: 7.1
+IMDb: 8.9
+IMDb: 7.9
+
+Average score of the films in marvel universe is 7.51
+The maximum IMDb score in marvel series is 8.9
