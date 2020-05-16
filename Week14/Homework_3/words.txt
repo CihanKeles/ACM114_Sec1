@@ -1,0 +1,20 @@
+JavaScript
+HTML/CSS
+SQL
+Python
+Java
+Bash/Shell/PowerShell
+C#
+PHP
+C++
+TypeScript
+C
+Ruby
+Go
+Assembly
+Swift
+
+Number of Words: 15
+Shortest Word: C
+Longest Word: Bash/Shell/PowerShell
+Average Word Length: 6
